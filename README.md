@@ -144,9 +144,9 @@ Terraform state is stored remotely in an S3 bucket (`backend.tf`) instead of loc
 | Name | Description | Default |
 |---|---|---|
 | `region` | AWS region | `us-east-1` |
-| `vpc_cidr` | CIDR block of the VPC | TODO |
-| `instance_type` | EC2 instance type for web servers | TODO |
-| `key_name` | EC2 key pair name | TODO |
+| `vpc_cidr` | CIDR block of the VPC | 
+| `instance_type` | EC2 instance type for web servers | 
+| `key_name` | EC2 key pair name | 
 
 ## Outputs
 
