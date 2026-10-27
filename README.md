@@ -8,7 +8,7 @@ The stack is deployed in **N. Virginia (`us-east-1`)** across **two Availability
 
 ## Architecture
 
-![Architecture Diagram] <img width="1111" height="743" alt="AdobeExpressPhotos_f49a407f5f8743209f036123ea493956_CopyEdited" src="https://github.com/user-attachments/assets/ef80b0bb-e43b-4125-927c-7c094a828e5b" />
+ <img width="1111" height="743" alt="AdobeExpressPhotos_f49a407f5f8743209f036123ea493956_CopyEdited" src="https://github.com/user-attachments/assets/ef80b0bb-e43b-4125-927c-7c094a828e5b" />
 
 
 ```
